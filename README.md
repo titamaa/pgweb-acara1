@@ -2,7 +2,7 @@
 Perencanaan Produk web GIS dan Git
 ___
 
-Nama : Tita Amalia 
+Nama : Tita Ama
 
 NIM : 22/492643/SV/20594
 
